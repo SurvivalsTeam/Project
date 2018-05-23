@@ -1,0 +1,13 @@
+{
+  "userList":
+  [{
+    "excursionName": "Екскурсія Львовом",
+    "excursionPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDT4luH4KYuv_fGoxkyG_4S50-So38iPYx_y6gmc8WHEcxw8"
+  },{
+    "excursionName": "Екскурсія Києвом",
+    "excursionPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDT4luH4KYuv_fGoxkyG_4S50-So38iPYx_y6gmc8WHEcxw8"
+  },{
+    "excursionName": "Екскурсія Десь)",
+    "excursionPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDT4luH4KYuv_fGoxkyG_4S50-So38iPYx_y6gmc8WHEcxw8"
+  }]
+}
